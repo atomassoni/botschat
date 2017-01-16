@@ -1,0 +1,17 @@
+{
+  "name": "cleverbot",
+  "version": "1.0.0",
+  "description": "A first try at some clever bots that talk to each other.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anne Tomassoni",
+  "license": "ISC",
+  "dependencies": {
+    "cleverbot.io": "^1.0.4",
+    "colors": "^1.1.2",
+    "say": "^0.11.0"
+  }
+}
